@@ -1,0 +1,29 @@
+h1{
+    text-align: center;
+    
+}
+
+div{
+    position: relative;
+}
+
+p{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    color: white;
+}
+
+p{
+    position: absolute;
+    top: 20px;
+    left: 20px;
+}
+
+input#btn{
+    float: right;
+}
+label, input{
+    display: block;
+    margin-bottom: 10px;
+} 
